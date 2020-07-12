@@ -5,7 +5,7 @@
 ---
 <img align='right' src='https://pbs.twimg.com/profile_images/1178820911513899008/kwhvwXLS_400x400.png' width='200"'>
 
-## Hi there 👋,           
+## Hi there 👋           
 Hello, I am graduated in information systems and currently work remotely as a frontend developer using react. In my spare time, I try to do some pixel art like the image on the side.
 
 ## 🧐 About
@@ -14,4 +14,4 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 - 📖 I write about web development on my [blog](https://www.crisgon.dev/).
 - 📚 I like to read books and manga.
 - 🎨 I do some pixel arts and post on my [twitter](https://twitter.com/Gonkristiano) and [instagram](https://t.co/09C4BM74kU?amp=1 "https://www.instagram.com/p1xel_dust/").
-- 👯 And Many More...
+- 🔁 And Many More...
