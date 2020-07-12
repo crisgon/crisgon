@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Gonkristiano-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cristiano-gonçalves)](https://twitter.com/Gonkristiano) [![Linkedin Badge](https://img.shields.io/badge/cristiano-gon%C3%A7alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiano-gon%C3%A7alves/)](https://www.linkedin.com/in/cristiano-gonçalves/) 
 [![Gmail Badge](https://img.shields.io/badge/-kristiano.gon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kristiano.gon@gmail.com)](mailto:kristiano.gon@gmail.com)
 ---
-<img align='right' src='https://pbs.twimg.com/profile_images/1178820911513899008/kwhvwXLS_400x400.png' width='200"'>
+<img align='right' src='https://raw.githubusercontent.com/crisgon/crisgon/master/cristiano-2.png' width='200"'>
 
 ## Hi there 👋           
 Hello, I am graduated in information systems and currently work remotely as a frontend developer using react. In my spare time, I try to do some pixel art like the image on the side.
