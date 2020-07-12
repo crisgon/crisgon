@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**crisgon/crisgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cristiano Gonçalves
+[![Twitter Badge](https://img.shields.io/badge/-@Gonkristiano-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cristiano-gonçalves)](https://twitter.com/Gonkristiano) [![Linkedin Badge](https://img.shields.io/badge/cristiano-gon%C3%A7alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiano-gon%C3%A7alves/)](https://www.linkedin.com/in/cristiano-gonçalves/) 
+[![Gmail Badge](https://img.shields.io/badge/-kristiano.gon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kristiano.gon@gmail.com)](mailto:kristiano.gon@gmail.com)
+---
+<img align='right' src='https://pbs.twimg.com/profile_images/1178820911513899008/kwhvwXLS_400x400.png' width='200"'>
 
-Here are some ideas to get you started:
+## Hi there 👋,           
+Hello, I am graduated in information systems and currently work remotely as a frontend developer using react. In my spare time, I try to do some pixel art like the image on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐 About
+- 😬 I like to share content and help beginners.
+- 📺 I am currently one of the organizers of the [Love Bits](https://linktr.ee/love_bits) meetup.
+- 📖 I write about web development on my [blog](https://www.crisgon.dev/).
+- 📚 I like to read books and manga.
+- 🎨 I do some pixel arts and post on my [twitter](https://twitter.com/Gonkristiano) and [instagram](https://t.co/09C4BM74kU?amp=1 "https://www.instagram.com/p1xel_dust/").
+- 👯 And Many More...
