@@ -18,3 +18,8 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 - 📚 I like to read books and manga.
 - 🎨 I do some pixel arts and post on my [twitter](https://twitter.com/Gonkristiano) and [instagram](https://t.co/09C4BM74kU?amp=1 "https://www.instagram.com/p1xel_dust/").
 - 🔁 And Many More...
+
+### 🚀 My Latest Blog Posts
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->

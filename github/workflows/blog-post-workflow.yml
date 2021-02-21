@@ -1,0 +1,20 @@
+on:
+  push:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  unsplash_stats_job:
+    runs-on: ubuntu-latest
+    name: Updates Unsplash stats and blog posts
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Updating blog posts
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        comment_tag_name: BLOG
+        feed_list: "https://www.crisgon.dev/feed.xml"
+
