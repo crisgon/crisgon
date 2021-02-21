@@ -16,5 +16,5 @@ jobs:
       uses: gautamkrishnar/blog-post-workflow@master
       with:
         comment_tag_name: BLOG
-        feed_list: "https://www.crisgon.dev/feed.xml"
+        feed_list: "https://www.crisgon.dev/rss.xml"
 
