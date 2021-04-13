@@ -3,6 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=crisgon)
 [![Twitter Badge](https://img.shields.io/badge/-@Gonkristiano-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cristiano-gonçalves)](https://twitter.com/Gonkristiano) [![Linkedin Badge](https://img.shields.io/badge/cristiano-gon%C3%A7alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiano-gon%C3%A7alves/)](https://www.linkedin.com/in/cristiano-gonçalves/) 
 [![Blog Badge](https://img.shields.io/badge/Blog-crisgon.dev-red)](https://www.crisgon.dev/)
+[![Twitch Badge](https://img.shields.io/badge/Lives-Twitch-blueviolet)](https://www.twitch.tv/cristiano_gon)
 <!--- [![Gmail Badge](https://img.shields.io/badge/-kristiano.gon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kristiano.gon@gmail.com)](mailto:kristiano.gon@gmail.com)-->
 
 ---
