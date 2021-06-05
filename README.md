@@ -23,9 +23,9 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 ### 🚀 My Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Iniciando com React Hooks - useCallback](https://crisgon.dev/iniciando-com-react-hooks-usecallback/)
 - [Iniciando com React Hooks - useMemo](https://crisgon.dev/iniciando-com-react-hooks-usememo/)
 - [Iniciando com React Hooks - useEffect](https://crisgon.dev/iniciando-com-react-hooks-useeffect/)
 - [Iniciando com React Hooks - useState](https://crisgon.dev/iniciando-com-react-hooks-usestate/)
 - [Expressões Regulares - Um guia para iniciantes](https://crisgon.dev/expressões-regulares-um-guia-para-iniciantes/)
-- [Typescript - Uma breve introdução -  Generics](https://crisgon.dev/typescript-uma-breve-introdução-generics/)
 <!-- BLOG:END -->
