@@ -29,3 +29,5 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 - [Iniciando com React Hooks - useState](https://crisgon.dev/iniciando-com-react-hooks-usestate/)
 - [Expressões Regulares - Um guia para iniciantes](https://crisgon.dev/expressões-regulares-um-guia-para-iniciantes/)
 <!-- BLOG:END -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crisgon&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
