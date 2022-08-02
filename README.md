@@ -30,4 +30,14 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 - [Expressões Regulares - Um guia para iniciantes](https://crisgon.dev/expressões-regulares-um-guia-para-iniciantes/)
 <!-- BLOG:END -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crisgon&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+### 📈 My Github Stats
+
+<a href="http://www.github.com/crisgon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crisgon&stroke=ffffff&background=1c1917&ring=e74c3c&fire=e74c3c&currStreakNum=ffffff&currStreakLabel=e74c3c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!---<a href="http://www.github.com/crisgon"><img src="https://github-readme-stats.vercel.app/api?username=crisgon&show_icons=true&hide=&count_private=true&title_color=fff&text_color=ffffff&icon_color=e74c3c&bg_color=e74c3c&hide_border=true&show_icons=true" alt="crisgon's GitHub stats" /></a>
+-->
+<a href="http://www.github.com/crisgon"><img src="https://activity-graph.herokuapp.com/graph?username=crisgon&bg_color=1c1917&color=ffffff&line=e74c3c&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/crisgon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisgon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
