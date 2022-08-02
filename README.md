@@ -20,7 +20,7 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 - 🎨 I do some pixel arts and post on my [twitter](https://twitter.com/Gonkristiano) and [instagram](https://t.co/09C4BM74kU?amp=1 "https://www.instagram.com/p1xel_dust/").
 - 🔁 And Many More...
 
-### 🚀 My Latest Blog Posts
+## 🚀 My Latest Blog Posts
 
 <!-- BLOG:START -->
 - [Iniciando com React Hooks - useCallback](https://crisgon.dev/iniciando-com-react-hooks-usecallback/)
@@ -31,7 +31,7 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 <!-- BLOG:END -->
 
 
-### 📈 My Github Stats
+## 📈 My Github Stats
 
 <a href="http://www.github.com/crisgon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crisgon&stroke=ffffff&background=1c1917&ring=e74c3c&fire=e74c3c&currStreakNum=ffffff&currStreakLabel=e74c3c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
