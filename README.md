@@ -23,11 +23,11 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 ## 🚀 My Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Meus erros e aprendizados em 1 ano como Tech Lead](https://crisgon.dev/meus-erros-e-acertos-em-1-ano-como-tech-lead/)
-- [Entendendo Variáveis CSS](https://crisgon.dev/entendendo-variáveis-css/)
-- [Iniciando com React Hooks - useReducer](https://crisgon.dev/iniciando-com-react-hooks-usereducer/)
-- [Iniciando com React Hooks - useCallback](https://crisgon.dev/iniciando-com-react-hooks-usecallback/)
-- [Iniciando com React Hooks - useMemo](https://crisgon.dev/iniciando-com-react-hooks-usememo/)
+- [Meus erros e aprendizados em 1 ano como Tech Lead](https://cristiano.dev/meus-erros-e-acertos-em-1-ano-como-tech-lead/)
+- [Entendendo Variáveis CSS](https://cristiano.dev/entendendo-variáveis-css/)
+- [Iniciando com React Hooks - useReducer](https://cristiano.dev/iniciando-com-react-hooks-usereducer/)
+- [Iniciando com React Hooks - useCallback](https://cristiano.dev/iniciando-com-react-hooks-usecallback/)
+- [Iniciando com React Hooks - useMemo](https://cristiano.dev/iniciando-com-react-hooks-usememo/)
 <!-- BLOG:END -->
 
 
