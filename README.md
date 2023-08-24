@@ -23,11 +23,11 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 ## 🚀 My Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Meus erros e aprendizados em 1 ano como Tech Lead](https://cristiano.dev/blog/meus-erros-e-acertos-em-1-ano-como-tech-lead/)
-- [Entendendo Variáveis CSS](https://cristiano.dev/blog/entendendo-variáveis-css/)
-- [Iniciando com React Hooks - useReducer](https://cristiano.dev/blog/iniciando-com-react-hooks-usereducer/)
-- [Iniciando com React Hooks - useCallback](https://cristiano.dev/blog/iniciando-com-react-hooks-usecallback/)
-- [Iniciando com React Hooks - useMemo](https://cristiano.dev/blog/iniciando-com-react-hooks-usememo/)
+- [Padrões React: Container &amp; Presentational](https://cristiano.dev//blog/2023-08-23-react-patterns-container-presentational)
+- [Gerando OG:Images dinâmicas com NEXT JS 13](https://cristiano.dev//blog/2023-08-12-gerando-og-images-com-next-js)
+- [Nasceu!! A nova versão do meu site](https://cristiano.dev//blog/2023-08-11-nasceu-a-nova-versao-do-meu-site)
+- [Meus erros e aprendizados em 1 ano como Tech Lead](https://cristiano.dev//blog/2022-08-02-meus-erros-e-acertos-em-1-ano-como-tech-lead)
+- [Entendendo Variáveis CSS](https://cristiano.dev//blog/2022-07-21-entendendo-variaveis-css)
 <!-- BLOG:END -->
 
 
