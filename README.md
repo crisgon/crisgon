@@ -23,11 +23,11 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 ## 🚀 My Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Padrões React: Render Props](https://cristiano.dev//blog/2023-09-14-react-patterns-render-props)
 - [Padrões React: Higher-Order Components](https://cristiano.dev//blog/2023-08-30-react-patterns-hocs-components-de-ordem-superior)
 - [Padrões React: Container &amp; Presentational](https://cristiano.dev//blog/2023-08-23-react-patterns-container-presentational)
 - [Gerando OG:Images dinâmicas com NEXT JS 13](https://cristiano.dev//blog/2023-08-12-gerando-og-images-com-next-js)
 - [Nasceu!! A nova versão do meu site](https://cristiano.dev//blog/2023-08-11-nasceu-a-nova-versao-do-meu-site)
-- [Meus erros e aprendizados em 1 ano como Tech Lead](https://cristiano.dev//blog/2022-08-02-meus-erros-e-acertos-em-1-ano-como-tech-lead)
 <!-- BLOG:END -->
 
 
