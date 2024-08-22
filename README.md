@@ -31,14 +31,14 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 <!-- BLOG:END -->
 
 
-## 📈 My Github Stats
+<!--  ## 📈 My Github Stats
 
 <a href="http://www.github.com/crisgon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crisgon&stroke=ffffff&background=1c1917&ring=e74c3c&fire=e74c3c&currStreakNum=ffffff&currStreakLabel=e74c3c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!---<a href="http://www.github.com/crisgon"><img src="https://github-readme-stats.vercel.app/api?username=crisgon&show_icons=true&hide=&count_private=true&title_color=fff&text_color=ffffff&icon_color=e74c3c&bg_color=e74c3c&hide_border=true&show_icons=true" alt="crisgon's GitHub stats" /></a>
 -->
 
-## 🗃️ My Top Languages 
+<!-- ## 🗃️ My Top Languages 
 
-<a href="https://github.com/crisgon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisgon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/crisgon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisgon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
