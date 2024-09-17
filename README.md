@@ -23,11 +23,11 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 ## 🚀 My Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Entendendo renderização no browser: DOM](https://cristiano.dev//blog/2024-09-17-processo-renderizacao-no-browser)
 - [O poder da URL como state](https://cristiano.dev//blog/2024-08-20-url-como-estado-da-aplicacao)
 - [Sua vida não é só trabalho!](https://cristiano.dev//blog/2024-07-08-sua-vida-nao-e-so-trabalho)
 - [Padrões React: Hooks](https://cristiano.dev//blog/2024-01-25-react-patterns-hooks)
 - [Padrões React: Render Props](https://cristiano.dev//blog/2023-09-14-react-patterns-render-props)
-- [Padrões React: Higher-Order Components](https://cristiano.dev//blog/2023-08-30-react-patterns-hocs-components-de-ordem-superior)
 <!-- BLOG:END -->
 
 
