@@ -23,11 +23,11 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 ## 🚀 My Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Primeiro faça funcionar](https://cristiano.dev//blog/2025-01-27-primeiro-faca-funcionar)
 - [Meu ano de 2024](https://cristiano.dev//blog/2024-12-26-meu-ano-de-2024)
 - [Entendendo renderização no browser: Como o DOM é gerado?](https://cristiano.dev//blog/2024-09-26-processo-renderizacao-no-browser-como-o-dom-e-gerado)
 - [Entendendo renderização no browser: CSSOM](https://cristiano.dev//blog/2024-09-26-processo-renderizacao-no-browser-cssom)
 - [Entendendo renderização no browser: DOM](https://cristiano.dev//blog/2024-09-17-processo-renderizacao-no-browser)
-- [O poder da URL como state](https://cristiano.dev//blog/2024-08-20-url-como-estado-da-aplicacao)
 <!-- BLOG:END -->
 
 
