@@ -6,7 +6,7 @@ on:
 jobs:
   unsplash_stats_job:
     runs-on: ubuntu-latest
-    name: Updates Unsplash stats and blog posts
+    name: Updates blog posts
 
     steps:
     - name: Checkout
@@ -16,5 +16,5 @@ jobs:
       uses: gautamkrishnar/blog-post-workflow@master
       with:
         comment_tag_name: BLOG
-        feed_list: "https://www.cristiano.dev/rss.xml"
+        feed_list: "https://www.cristiano.dev/api/feed.xml"
 
