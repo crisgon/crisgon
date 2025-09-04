@@ -3,8 +3,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=crisgon)
 [![Twitter Badge](https://img.shields.io/badge/-@Gonkristiano-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cristiano-gonçalves)](https://twitter.com/Gonkristiano) [![Linkedin Badge](https://img.shields.io/badge/cristiano-gon%C3%A7alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiano-gon%C3%A7alves/)](https://www.linkedin.com/in/cristiano-gonçalves/) 
 [![Blog Badge](https://img.shields.io/badge/Site-cristiano.dev-red)](https://cristiano.dev/)
-[![Twitch Badge](https://img.shields.io/badge/Lives-Twitch-blueviolet)](https://www.twitch.tv/cristiano_gon)
-<!--- [![Gmail Badge](https://img.shields.io/badge/-kristiano.gon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kristiano.gon@gmail.com)](mailto:kristiano.gon@gmail.com)-->
+<!---[![Twitch Badge](https://img.shields.io/badge/Lives-Twitch-blueviolet)](https://www.twitch.tv/cristiano_gon)
+ [![Gmail Badge](https://img.shields.io/badge/-kristiano.gon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kristiano.gon@gmail.com)](mailto:kristiano.gon@gmail.com)-->
 
 ---
 <img align='right' src='https://raw.githubusercontent.com/crisgon/crisgon/master/cristiano.png' width='200"'>
@@ -14,11 +14,12 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 
 ## 🧐 About
 - 😬 I like to share content and help beginners.
-- 📺 I am currently one of the organizers of the [Love Bits](https://linktr.ee/love_bits) meetup.
-- 📖 I write about web development on my [blog](https://www.crisgon.dev/).
+- 📖 I write about web development on my [blog](https://www.crisgon.dev/blog).
 - 📚 I like to read books and manga.
-- 🎨 I do some pixel arts and post on my [twitter](https://twitter.com/Gonkristiano) and [instagram](https://t.co/09C4BM74kU?amp=1 "https://www.instagram.com/p1xel_dust/").
 - 🔁 And Many More...
+<!---- 📺 I am currently one of the organizers of the [Love Bits](https://linktr.ee/love_bits) meetup.-->
+<!----- 🎨 I do some pixel arts and post on my [twitter](https://twitter.com/Gonkristiano) and [instagram](https://t.co/09C4BM74kU?amp=1 "https://www.instagram.com/p1xel_dust/").-->
+
 
 ## 🚀 My Latest Blog Posts
 
