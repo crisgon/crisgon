@@ -24,11 +24,11 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 ## 🚀 My Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Entendendo renderização no browser: Reflow e Repaint](https://www.cristiano.dev/blog/2025-09-02-processo-renderizacao-no-browser-repaint-reflow)
 - [Testando pacotes locais com Yalc](https://www.cristiano.dev/blog/2025-07-27-testando-pacotes-locais-com-yalc)
 - [Entendendo renderização no browser: Layout e Paint](https://www.cristiano.dev/blog/2025-02-20-processo-renderizacao-no-browser-layout-paint)
 - [Primeiro faça funcionar](https://www.cristiano.dev/blog/2025-01-27-primeiro-faca-funcionar)
 - [Meu ano de 2024](https://www.cristiano.dev/blog/2024-12-26-meu-ano-de-2024)
-- [Entendendo renderização no browser: Como o DOM é gerado?](https://www.cristiano.dev/blog/2024-09-26-processo-renderizacao-no-browser-como-o-dom-e-gerado)
 <!-- BLOG:END -->
 
 
