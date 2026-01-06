@@ -24,11 +24,11 @@ Hello, I am graduated in information systems and currently work remotely as a fr
 ## 🚀 My Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Meu ano de 2025](https://www.cristiano.dev/blog/2026-01-06-meu-ano-de-2026)
 - [Desenvolver é resolver problemas, não seguir tendências](https://www.cristiano.dev/blog/2025-11-23-desenvolver-e-resolver-problemas)
 - [Minha jornada em uma pós-graduação para frontends](https://www.cristiano.dev/blog/2025-10-01-minha-jornada-em-uma-pos-de-frontend)
 - [Entendendo renderização no browser: Critical Render Path](https://www.cristiano.dev/blog/2025-09-05-processo-renderizacao-no-browser-critical-render-path)
 - [Entendendo renderização no browser: Reflow e Repaint](https://www.cristiano.dev/blog/2025-09-02-processo-renderizacao-no-browser-repaint-reflow)
-- [Testando pacotes locais com Yalc](https://www.cristiano.dev/blog/2025-07-27-testando-pacotes-locais-com-yalc)
 <!-- BLOG:END -->
 
 
